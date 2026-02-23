@@ -208,3 +208,5 @@ That's it — the `Analyzer` and renderer work with any connector automatically.
 ## License
 
 MIT
+
+Full architecture walkthrough here: https://deepwiki.com/architkgangal/dblens
