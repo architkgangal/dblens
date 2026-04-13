@@ -28,7 +28,7 @@ Every finding comes with:
 ```bash
 pip install dblens
 
-# Install with drivers for your database(s):
+# Install with drivers for  database(s):
 pip install "dblens[postgres]"
 pip install "dblens[mysql]"
 pip install "dblens[mongo]"
@@ -38,7 +38,7 @@ pip install "dblens[all]"       # everything
 
 Or from source:
 ```bash
-git clone https://github.com/yourname/dblens
+git clone https://github.com/architkgangal/dblens
 cd dblens
 pip install -e ".[all]"
 ```
